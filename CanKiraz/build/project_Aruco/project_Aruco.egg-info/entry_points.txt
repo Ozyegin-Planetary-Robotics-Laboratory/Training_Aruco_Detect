@@ -1,0 +1,4 @@
+[console_scripts]
+aruco_detection = project_Aruco.integrated_aruco_detection:main
+listener_node = project_Aruco.listener_node:main
+

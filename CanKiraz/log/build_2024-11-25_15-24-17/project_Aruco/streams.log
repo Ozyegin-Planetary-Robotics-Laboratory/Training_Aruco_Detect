@@ -1,0 +1,26 @@
+[0.440s] Invoking command in '/home/cankrz/ros2_ws/src/project_Aruco': PYTHONPATH=/home/cankrz/ros2_ws/build/project_Aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project_Aruco build --build-base /home/cankrz/ros2_ws/build/project_Aruco/build install --record /home/cankrz/ros2_ws/build/project_Aruco/install.log --single-version-externally-managed install_data
+[0.612s] running egg_info
+[0.613s] writing ../../build/project_Aruco/project_Aruco.egg-info/PKG-INFO
+[0.613s] writing dependency_links to ../../build/project_Aruco/project_Aruco.egg-info/dependency_links.txt
+[0.613s] writing entry points to ../../build/project_Aruco/project_Aruco.egg-info/entry_points.txt
+[0.613s] writing requirements to ../../build/project_Aruco/project_Aruco.egg-info/requires.txt
+[0.613s] writing top-level names to ../../build/project_Aruco/project_Aruco.egg-info/top_level.txt
+[0.614s] reading manifest file '../../build/project_Aruco/project_Aruco.egg-info/SOURCES.txt'
+[0.615s] writing manifest file '../../build/project_Aruco/project_Aruco.egg-info/SOURCES.txt'
+[0.615s] running build
+[0.615s] running build_py
+[0.615s] copying project_Aruco/integrated_aruco_detection.py -> /home/cankrz/ros2_ws/build/project_Aruco/build/lib/project_Aruco
+[0.615s] running install
+[0.616s] running install_lib
+[0.616s] copying /home/cankrz/ros2_ws/build/project_Aruco/build/lib/project_Aruco/integrated_aruco_detection.py -> /home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages/project_Aruco
+[0.616s] byte-compiling /home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages/project_Aruco/integrated_aruco_detection.py to integrated_aruco_detection.cpython-310.pyc
+[0.618s] running install_data
+[0.618s] running install_egg_info
+[0.619s] removing '/home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages/project_Aruco-0.0.0-py3.10.egg-info' (and everything under it)
+[0.619s] Copying ../../build/project_Aruco/project_Aruco.egg-info to /home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages/project_Aruco-0.0.0-py3.10.egg-info
+[0.620s] running install_scripts
+[0.633s] Installing aruco_detection script to /home/cankrz/ros2_ws/install/project_Aruco/lib/project_Aruco
+[0.633s] Installing listener_node script to /home/cankrz/ros2_ws/install/project_Aruco/lib/project_Aruco
+[0.633s] Installing talker_node script to /home/cankrz/ros2_ws/install/project_Aruco/lib/project_Aruco
+[0.633s] writing list of installed files to '/home/cankrz/ros2_ws/build/project_Aruco/install.log'
+[0.650s] Invoked command in '/home/cankrz/ros2_ws/src/project_Aruco' returned '0': PYTHONPATH=/home/cankrz/ros2_ws/build/project_Aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cankrz/ros2_ws/install/project_Aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project_Aruco build --build-base /home/cankrz/ros2_ws/build/project_Aruco/build install --record /home/cankrz/ros2_ws/build/project_Aruco/install.log --single-version-externally-managed install_data
